@@ -49,5 +49,5 @@
         </div>
     </div>
 </body>
-<footer>&copy; 2019 por Linea de Codigo</footer>
+<footer>&copy; 2019 por code8.com</footer>
 </html>
